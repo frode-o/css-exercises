@@ -1,0 +1,26 @@
+p {
+    font-family: verdana, "dejavu sans", sans-serif;
+    /* font-size: 24px; */
+}
+
+div {
+    font-family: serif;
+}
+
+.redrum {
+    background-color: #ffa0a0;
+}
+.large {
+    font-size: 24px;
+}
+
+#blue {
+    font-size: 36px;
+    color: rgb(0, 20, 255);
+}
+
+#green {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #7de191;
+}
